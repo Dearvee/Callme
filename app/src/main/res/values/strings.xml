@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Phone</string>
+    <string name="call_button">拨号</string>
+</resources>
